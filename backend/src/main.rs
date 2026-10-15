@@ -12,6 +12,7 @@ pub mod connection;
 pub mod state;
 pub mod tools;
 pub mod messaging;
+pub mod simulation;
 
 #[tokio::main]
 async fn main() -> Result<(), AppError> {
