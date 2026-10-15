@@ -18,6 +18,7 @@ use crate::simulation::{
     },
 };
 
+
 const DEFAULT_PRESET_ID: &str = "ctifl_nantes_2014_2015";
 
 #[derive(Debug, Clone, Default, Serialize, Deserialize)]
