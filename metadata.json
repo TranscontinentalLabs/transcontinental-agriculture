@@ -1,0 +1,8 @@
+{
+  "name": "Transcontinental Agriculture",
+  "description": "Greenhouse engineering simulation, climate matching, energy analysis, and construction feasibility planning.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
